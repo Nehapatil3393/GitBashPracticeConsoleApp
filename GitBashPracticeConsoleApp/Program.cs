@@ -8,7 +8,7 @@ namespace GitBashPracticeConsoleApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hi");
-
+            Console.WriteLine("doing some changes on master branch");
         }
     }
 }
